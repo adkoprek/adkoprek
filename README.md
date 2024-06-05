@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+NewDawn0+also+known+as+Tom" alt="Typing SVG" style="display:inline-block"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+adkoprek+also+known+as+Tom" alt="Typing SVG" style="display:inline-block"/>
 </div> 
 
 ## Quick Overview
@@ -8,20 +8,12 @@
 - 🎓 Currently in High School.
 - 📚 Reading "Operating Systems from 0 to 1".
 - 👍 Assisting friends and family as "Tech Support".
-- ✨ Fun fact: I prefer tabs over spaces.
+- ✨ Fun fact: I prefer tabs over spaces. +
 
 ## About Me
 <details>
-<summary>About NewDawn0 (Tom), a Computer Science Enthusiast...</summary>
-My name is Tom, though online, I go by NewDawn0. As a student, I harbour a deep passion for computer science, reflected in my diverse interests, including coding, socializing, gaming (particularly Minecraft and Finals), and indulging in music.
-
-My coding expedition began approximately three years ago with Python as my initial endeavour. Since then, I've consistently broadened my horizons, currently delving into Rust for my secondary ventures. My unwavering advocacy for Unix systems in coding manifests through my meticulously configured workstations spanning Linux, Mac, (and WSL), all of which are set up using Nix.
-
-In the realm of editors, both Emacs and NeoVim earn my admiration, though the latter currently occupies my attention. Structured adeptly for coding, note-taking, and writing, NeoVim enhances my productivity and overall satisfaction.
-
-Thus, I present myself: a youthful, ambitious coder, guided by a deep affection for technology and an insatiable thirst for enlightenment. Let's embark on this journey together! 💻🚀
-
-</details>
+<summary>About adkoprek (Tom), a Computer Science Enthusiast...</summary>
+My Sumary
 
 ## Languages & Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -67,22 +59,20 @@ Thus, I present myself: a youthful, ambitious coder, guided by a deep affection 
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
 </table>
 
 ## Connect with me or sponsor me
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@git.NewDawn0)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/newdawn0)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/820033152827129926/)
+My Accounts
 
 ## Miscellaneous Infos
 <details>
