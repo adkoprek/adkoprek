@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+adkoprek+also+known+as+Tom" alt="Typing SVG" style="display:inline-block"/>
-</div> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=1000&width=600&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World%3E;Glad+to+see+you+here;I'm+Halfooda+also+known+as+Tom" alt="Typing SVG" style="display:inline-block"/>
+</div>
+
 
 ## Quick Overview
-- 🔭 Currently working on various projects.
-- 🌱 Improving my Zig and Gleam skills.
-- 🎓 Currently in High School.
-- 📚 Reading "Operating Systems from 0 to 1".
-- 👍 Assisting friends and family as "Tech Support".
+
+- ??? Currently working on various projects.
+- ??? Improving my Zig and Gleam skills.
+- ??? Currently in High School.
+- ??? Reading "Operating Systems from 0 to 1".
+- ??? Assisting friends and family as "Tech Support".
 - ✨ Fun fact: I prefer tabs over spaces. +
 
 ## About Me
+
 <details>
-<summary>About adkoprek (Tom), a Computer Science Enthusiast...</summary>
+<summary>About Halfooda (Tom), a Computer Science Enthusiast...</summary>
 My Sumary
 
 ## Languages & Tools
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -59,24 +63,26 @@ My Sumary
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halfooda&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halfooda&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halfooda&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halfooda&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halfooda&theme=ayu_mirage" width="100%" /></td>
   </tr>
 </table>
 
 ## Connect with me or sponsor me
+
 My Accounts
 
 ## Miscellaneous Infos
+
 <details>
-<summary>My Workstations 💻</summary>
+<summary>My Workstations ???</summary>
 
 ```bash
 OS: macOS 14.4 23E214 x86_64
@@ -92,10 +98,12 @@ CPU: Intel i7-1068NG7 (8) @ 2.30GHz
 GPU: Intel Iris Plus Graphics
 Memory: 15720MiB / 32768MiB
 ```
+
 </details>
 <details>
 <summary>Interested in the Music I Listen To?</summary>
 Stay tuned to the music vibes I'm currently grooving to</br>
 <img alt="spotify-github-profile" onClick="window.location.reload()" src="https://spotify-github-profile.vercel.app/api/view?uid=tosu-ch&cover_image=true&theme=default&show_offline=false&background_color=121212"></img>
 </details>
+
 
