@@ -100,11 +100,9 @@ My name is Adam, and I'm a 15-year-old student in Switzerland who signed up for 
   </tr>
 </table>
 
-## Connect with me or sponsor me
+## Connect with me
 
-[My Email]
-
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](adam.koprek@edu.schulen-Turgi.ch)
+My Email: adam.koprek@edu.schulen-Turgi.ch
 
 ## Miscellaneous Infos
 
