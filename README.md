@@ -92,11 +92,11 @@ My name is Adam, and I'm a 15-year-old student in Switzerland who signed up for 
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewDawn0&theme=ayu_mirage" width="100%" /></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adkoprek&theme=ayu_mirage" width="100%" /></td>
   </tr>
 </table>
 
