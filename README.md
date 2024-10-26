@@ -102,7 +102,7 @@ My name is Adam, and I'm a 15-year-old student in Switzerland who signed up for 
 
 ## Connect with me
 
-My Email: adam.koprek@edu.schulen-Turgi.ch
+My Email: adam.koprek@stud.kswe.ch
 
 ## Miscellaneous Infos
 
